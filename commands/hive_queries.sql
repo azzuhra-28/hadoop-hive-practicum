@@ -1,0 +1,12 @@
+SHOW DATABASES;
+CREATE DATABASE latihan;
+USE latihan;
+
+CREATE TABLE mahasiswa (
+  nama STRING,
+  umur INT
+)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ',';
+
+SELECT * FROM mahasiswa;
