@@ -3,6 +3,15 @@
 ## 📌 Deskripsi
 Project ini merupakan implementasi Hadoop dan Hive menggunakan LXC container sebagai bagian dari praktikum Big Data.
 
+## 📊 Architecture
+Hadoop (HDFS + YARN) digunakan sebagai distributed storage,
+sedangkan Hive digunakan sebagai data warehouse untuk query SQL.
+
+## 🎯 Tujuan
+- Memahami konsep Big Data
+- Implementasi Hadoop ecosystem
+- Query data menggunakan Hive
+  
 ## ⚙️ Tools & Teknolog
 * Hadoop 3.3.6
 * Hive 3.1.2
